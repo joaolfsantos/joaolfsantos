@@ -2,7 +2,7 @@
 
 ###
 
-I am a software engineer with over 6 years of experience, currently working as a technical lead. I have a strong background in designing systems and databases for distributed and scalable applications. I possess solid expertise in the Java, Python, and JavaScript programming languages, as well as advanced skills in frameworks like Spring, FastAPI, and Express.
+I am a software engineer with over 8 years of experience, currently working as a technical lead. I have a strong background in designing systems and databases for distributed and scalable applications. I possess solid expertise in the Java, Python, and JavaScript programming languages, as well as advanced skills in frameworks like Spring, FastAPI, and Express.
 
 More information about me
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/joaolfsa/)](https://www.linkedin.com/in/joaolfsa/) 
